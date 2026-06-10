@@ -12,3 +12,6 @@ To compile and run the program locally, use your terminal:
 gcc attendance.c -o attendance
 ./attendance
 ```
+## YouTube Video Link
+Here is the link to our project presentation video:
+[Watch our Student Attendance System Video](https://youtu.be/iI7u4gPz4Ms?si=1edmF22qSMmesX11)
